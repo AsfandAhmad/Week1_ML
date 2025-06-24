@@ -1,0 +1,8 @@
+Report Card:
+Name: Asfand
+Age: 20
+subject: 93
+subject: 95
+subject: 100
+Average: 96.00
+Grade: A
